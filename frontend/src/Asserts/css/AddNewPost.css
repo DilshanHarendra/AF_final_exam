@@ -1,0 +1,19 @@
+span{
+    color: red;
+}
+.btn{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+.bg-primary{
+    padding: 10px!important;
+}
+.btn {
+    font-size: 20px;
+}

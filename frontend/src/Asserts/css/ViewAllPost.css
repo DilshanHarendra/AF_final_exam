@@ -1,0 +1,22 @@
+.card{
+    padding: 10px;
+}
+.card-img-top{
+    height: 300px;
+}
+.card-text{
+    text-transform: uppercase;
+    font-weight: bold;
+    color: gray;
+}
+a{
+    text-decoration: none !important;
+}
+.card-text:hover{
+    color: blue !important;
+}
+.nopost{
+    margin-left: auto;
+    margin-right: auto;
+    color: gray;
+}

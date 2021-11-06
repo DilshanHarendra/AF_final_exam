@@ -1,0 +1,13 @@
+.coverImage{
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 450px;
+    margin-bottom: 30px;
+}
+.card{
+    margin-bottom: 50px;
+}
+.text-white{
+    text-transform: uppercase;
+}

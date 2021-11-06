@@ -1,0 +1,39 @@
+.main{
+ width: 100%;
+ height: calc(100vh - 60px) ;
+ background-size: cover;
+ background-repeat: no-repeat;
+ background-position: bottom;
+padding-top: 200px;
+
+}
+
+.card{
+ padding: 10px;
+}
+.card-img-top{
+ height: 300px;
+}
+.card-text{
+ text-transform: uppercase;
+ font-weight: bold;
+ color: gray;
+}
+
+.topic{
+ font-size: 50px;
+ font-weight: bold;
+ color: white;
+
+}
+a{
+ text-decoration: none !important;
+}
+.card-text:hover{
+ color: blue !important;
+}
+.nopost{
+ margin-left: auto;
+ margin-right: auto;
+ color: gray;
+}
